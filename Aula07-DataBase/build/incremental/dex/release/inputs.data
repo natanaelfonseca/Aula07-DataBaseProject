@@ -1,0 +1,23 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371664925000 2196 58e637b3535ee02d8812010e1108405634606c19 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/domainmodel/Pessoa.class
+1371674557000 2446 514d6228df48cb87611929d934e01e2f26f76e22 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/AddActivity.class
+1371662251000 345 2a268d00837dcb555d5bbe22f7b542abb5a2da8e /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/BuildConfig.class
+1371674557000 431 1e7a5ecc0b257ce93014e2a3dce428e03bc082d5 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$style.class
+1371674557000 677 b3f36fc420c8193c677c3ac7f456d65b505b1591 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R.class
+1371674557000 515 de3901e6305daa2384af69235c2f1e08a48bde2a /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$string.class
+1371674557000 877 298ee67bcda671763ca36624b974636643abaf45 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/AddActivity$1$1.class
+1371661997000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/libs/android-support-v4.jar
+1371674557000 1249 651f1a52f0f9a950a68c0df34f8df3b7d92dd63a /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/AddActivity$1.class
+1371674557000 834 ce634b95d80924224eb1b86cfb16b20073e9acf1 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$id.class
+1371673587000 1210 139ac398ccefd2dd506eeb332564944e2cc3f4ea /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/CustomApplication.class
+1371674557000 1703 9c2dab8994a99144c4324def2525c83c24b8a389 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/CustomCursorAdapter.class
+1371662251000 340 6eac538d7c17a2f03e0f9c795dfa8b1bcf2be88e /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$attr.class
+1371674557000 388 1f908497c7bdaf56db8cb8e19954517f1c9d8a98 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$menu.class
+1371662251000 461 eb63258fcde9bcb1829e8a8bd5c036a1da2352bf /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$dimen.class
+1371674557000 449 889364f1bd38df90ebe559331b353ec3c623c516 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$layout.class
+1371675700000 3309 844fa2bfb7ca820917577a830b7ebf54904b3b57 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/persistence/DataBaseManager.class
+1371662251000 407 b76f8b301de0ddeadaed5f283bddc36fe90af0cb /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/R$drawable.class
+1371664925000 2142 c1d707a3683edd18b909ea5e600c3543e999275f /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/persistence/MyDataBaseHelper.class
+1371675942000 3213 f8b86b7ef803e187f37e392f1f0aab8f044dfaf4 /home/natanaelfonseca/AndroidStudioProjects/Aula07-DataBaseProject/Aula07-DataBase/build/classes/release/br/com/treinamento/MainActivity.class
